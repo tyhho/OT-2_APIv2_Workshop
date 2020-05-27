@@ -1,0 +1,10 @@
+Transferring 200.0 from A1 of Corning 24 Well Plate 3.4 mL Flat on 2 to A1 of Corning 96 Well Plate 360 킠 Flat on 1
+	Picking up tip from A1 of Opentrons 96 Tip Rack 300 킠 on 3
+	Aspirating 200.0 uL from A1 of Corning 24 Well Plate 3.4 mL Flat on 2 at 1.0 speed
+	Dispensing 200.0 uL into A1 of Corning 96 Well Plate 360 킠 Flat on 1 at 1.0 speed
+	Dropping tip into A1 of Opentrons Fixed Trash on 12
+Transferring 150.0 from A1 of Corning 24 Well Plate 3.4 mL Flat on 2 to A2 of Corning 96 Well Plate 360 킠 Flat on 1
+	Picking up tip from B1 of Opentrons 96 Tip Rack 300 킠 on 3
+	Aspirating 150.0 uL from A1 of Corning 24 Well Plate 3.4 mL Flat on 2 at 1.0 speed
+	Dispensing 150.0 uL into A2 of Corning 96 Well Plate 360 킠 Flat on 1 at 1.0 speed
+	Dropping tip into A1 of Opentrons Fixed Trash on 12
