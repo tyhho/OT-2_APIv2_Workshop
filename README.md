@@ -34,7 +34,7 @@ OT-2 APIv2 exercises.ipynb /.pdf  (Optional exercises for practicing OT-2 APIv2)
 
 OT-2 APIv2 exercises with solutions.ipynb /.pdf
 
-## 3. A beginner's approach to OT-2 APIv2.ipynb / .pdf Part II (~ 1.5 hours)
+## 3. A beginner's approach to OT-2 APIv2.ipynb / .pdf Part II (~ 2 hours)
 This workshop goes into the customizations of protocols to make them pratical. It covers: customizations for liquid transfers, building block commands, suggestions for reusable protocols and manual integration with Excel to generate transfer commands.
 
 Relevant files:
