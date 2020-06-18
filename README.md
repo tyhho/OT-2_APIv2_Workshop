@@ -8,7 +8,7 @@ The Opentrons package.
 ## Structure
 The workshops are roughly divided into 3 sections. Our approach is: **First you make it work, then you make it work bettter**.
 
-Note that the duration is not final.
+Durations indicated come from implementations of the workshops on 3rd, 10th and 17th June 2020, through Blackboard Collaborate.
 
 ## 1. Elementary Python for OT-2 API.ipynb / .pdf (~3 hours)
 Covers topics on: installation of Anaconda and navigation within the Spyder IDE, basic syntax, basic variables, lists and dictionaries, basic string manipulation, simple custom functions, for loops, and the superficial concept of object-oriented programming (without details). It covers the minimal amount of materials for understanding and programming in the OT-2 APIv2.
